@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 { 
-   this is __Wformat_mingw_printf
     int i, j, n, position, swap ,arr[99];
 
     printf("Enter size of array: ");
